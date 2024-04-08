@@ -14,7 +14,7 @@ body {
 
 /* Header */
 .header {
-    background-color: lightgray;
+    background-color:aquamarine;
 }
 
 .menu-item {
@@ -24,7 +24,7 @@ body {
 }
 
 .menu-item:nth-child(1) {
-    background-color: red;
+    background-color: lightgreen;
 }
 
 .menu-item:nth-child(2) {
@@ -32,11 +32,11 @@ body {
 }
 
 .menu-item:nth-child(3) {
-    background-color: blue;
+    background-color: teal;
 }
 
 .menu-item:nth-child(4) {
-    background-color: orange;
+    background-color: magenta;
 }
 
 .menu-item:nth-child(5) {
@@ -55,7 +55,7 @@ body {
 }
 
 .left-column {
-    background-color: teal;
+    background-color: grey;
 }
 
 .right-column {
